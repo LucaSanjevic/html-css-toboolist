@@ -39,9 +39,21 @@ ul {
 }
 .CheckFalso {
     color: #F00;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
 }
 .CheckVero {
     color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
 }
 .Testo {
     font-weight: bold;
